@@ -8,17 +8,22 @@ To write a program to predict the profit of a city using the linear regression m
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Load the dataset and separate input and output variables.
 
+
+2. Initialize the slope and intercept with starting values.
+
+
+3. Iteratively update the slope and intercept using the training data until the model converges.
+
+
+4. Use the final slope and intercept to 
 ## Program:
 ```
 /*
 Program to implement the linear regression using gradient descent.
-Developed by: 
-RegisterNumber:  
+Developed by:Pruthvisri A 
+RegisterNumber:25013683  
 */
 
 import numpy as np
